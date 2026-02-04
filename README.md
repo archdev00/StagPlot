@@ -1,5 +1,5 @@
 # StagPlot
-Jupyter Notebooks for plotting fields from a StagYY output.
+Jupyter Notebooks for plotting fields from a StagYY output using the StagPy backend.
 
 ## First steps:
 Create a virtual environment for StagPy in your preferred directory with this command:\
